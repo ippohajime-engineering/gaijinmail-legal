@@ -11,4 +11,5 @@ The canonical copies live in the app repository at
 Edit them there and copy the result here, so the in-app and published text
 cannot drift apart.
 
-IppoEngineering — guildmaster@ippohajime.jp
+株式会社未来ヌサンタラ / MIRAI NUSANTARA KK — guildmaster@ippohajime.jp
+Product development: IPPO Engineering
